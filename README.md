@@ -7,12 +7,12 @@
 ```
 Code By: Daniel Nguyen - 173005214
 Course: Programming Methodology I
-Professor: Yangyong Zhang
+Professor: Philip Brown
 
 Description:
 ...
 
 Rutgers University NB
-2016
+2017
 ```
 
