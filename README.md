@@ -27,6 +27,8 @@ Christopher Frias
 George Galkin
 Oluwole Odusola
 
+See instruction PDF for more details.
+
 Rutgers University NB
 2017
 ```
